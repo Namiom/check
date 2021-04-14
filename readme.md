@@ -16,7 +16,8 @@ LICENSE: [MIT](./license.md)
 6. [init.md](./init.md)
 7. [commit.md](./commit.md)
 8. [clone.md](./clone.md)
-9.
+9. [File.md](./file.md)
+10. 
 
 
 ---
